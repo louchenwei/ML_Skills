@@ -1,4 +1,4 @@
-.ipynb_checkpoints/
-__pycache__/
-catboost_info/
-建模流程梳理.ipynb
+一般建模流程梳理/.ipynb_checkpoints/
+一般建模流程梳理/__pycache__/
+一般建模流程梳理/catboost_info/
+*.ipynb
