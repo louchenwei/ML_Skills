@@ -9,7 +9,13 @@
 
 [3.样本采样](https://nbviewer.jupyter.org/github/zhulei227/ML_Skills/blob/master/%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E5%AD%A6%E4%B9%A0/3.%E6%A0%B7%E6%9C%AC%E9%87%87%E6%A0%B7.ipynb)
 
-[4.代价敏感学习](https://nbviewer.jupyter.org/github/zhulei227/ML_Skills/blob/master/4.代价敏感学习.ipynb)
+[4.代价敏感学习](https://nbviewer.jupyter.org/github/zhulei227/ML_Skills/blob/master/%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E5%AD%A6%E4%B9%A0/4.%E4%BB%A3%E4%BB%B7%E6%95%8F%E6%84%9F%E5%AD%A6%E4%B9%A0.ipynb)
+
+
+
+
+
+
 
 
 
