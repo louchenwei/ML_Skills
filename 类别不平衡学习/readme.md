@@ -1,7 +1,7 @@
 
 ### 简介
 
-类别不平衡是建模中很常见的问题，下面以二分类的不平衡学习为例，介绍一些分析和处理方法:  
+类别不平衡是建模中很常见的问题，下面以二分类的不平衡学习为例，介绍一些分析和处理方法（PS：异常检测也常用于类别不平衡学习，这部分内容准备单独整理）  
 
 [1.数据分布及其指标评估](https://nbviewer.jupyter.org/github/zhulei227/ML_Skills/blob/master/%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E5%AD%A6%E4%B9%A0/1.%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83%E5%8F%8A%E5%85%B6%E6%8C%87%E6%A0%87%E8%AF%84%E4%BC%B0.ipynb)  
 
@@ -11,11 +11,9 @@
 
 [4.代价敏感学习](https://nbviewer.jupyter.org/github/zhulei227/ML_Skills/blob/master/%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E5%AD%A6%E4%B9%A0/4.%E4%BB%A3%E4%BB%B7%E6%95%8F%E6%84%9F%E5%AD%A6%E4%B9%A0.ipynb)
 
+[5.决策输出补偿](https://nbviewer.jupyter.org/github/zhulei227/ML_Skills/blob/master/%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E5%AD%A6%E4%B9%A0/5.%E5%86%B3%E7%AD%96%E8%BE%93%E5%87%BA%E8%A1%A5%E5%81%BF.ipynb)
 
-
-
-
-
+[6.集成学习](https://nbviewer.jupyter.org/github/zhulei227/ML_Skills/blob/master/%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E5%AD%A6%E4%B9%A0/6.%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0.ipynb)
 
 
 
@@ -39,6 +37,4 @@ https://blog.csdn.net/kizgel/article/details/78553009?locationNum=6&fps=1
 https://www.lizenghai.com/archives/2842.html
 
 https://www.jianshu.com/p/0bfce1806235
-
-[公平学习](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9674752256179294815%22%7D&n_type=0&p_from=1)
 
