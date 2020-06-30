@@ -30,13 +30,13 @@
    > >
    > > 2.) 特征变换：pca、lda、lle(局部线性嵌入)、ae（自编码）、vae（变分自编码）等  
    
-   ![avatar](./source/特征优化.png)
+   ![svg](./source/特征优化.svg)
    
    4.2 [数据优化>>>](https://nbviewer.jupyter.org/github/zhulei227/ML_Skills/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E6%B5%81%E7%A8%8B%E6%A2%B3%E7%90%86/5.%E6%95%B0%E6%8D%AE%E5%A2%9E%E5%BC%BA.ipynb)
    
    数据优化如下图所示，同样包括两个主要方向，一个是去掉无用的样本，或者弱化无用的样本，可以采用异常检测算法或者代价敏感学习，另一个方向是增加有用样本，又分为两个方向，一个是看有没有类似的样本，如果有可以考虑迁移学习或者半监督学习，如果没有类似样本，可以考虑通过GAN，GMM等方式自动生成伪数据，或者通过采样，自定义规则等造伪数据（当前仅对部分内容做实现，后续会对异常检测、代价敏感学习、数据增强等分专题介绍）
    
-   ![avatar](./source/数据优化.png)
+   ![svg](./source/数据优化.svg)
    
     4.3 [模型优化>>>](https://nbviewer.jupyter.org/github/zhulei227/ML_Skills/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BB%BA%E6%A8%A1%E6%B5%81%E7%A8%8B%E6%A2%B3%E7%90%86/6.%E6%A8%A1%E5%9E%8B%E4%BC%98%E5%8C%96.ipynb)
    
